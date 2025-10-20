@@ -22,7 +22,7 @@
 
 ## 🎴 Материалы  
 - [Тест хираганы и катаканы](https://kana.pro/)
-- 📖 (Карточки)[https://obrazavr.ru/uchenik/maximpiryutkogmail-com/?t=cards]
+- 📖 [Карточки](https://obrazavr.ru/uchenik/maximpiryutkogmail-com/?t=cards)
 - 🎥[日本語教室の つばき先生 Native Japanese Teacher](https://www.youtube.com/@tsubakiclass/videos)  
 
 ---
