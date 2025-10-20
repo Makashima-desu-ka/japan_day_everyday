@@ -5,7 +5,7 @@
 ---
 
 ## 🈶 Хирагана  
-- 🌸 [Алфавит хираганы](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/hiragana.md)  
+- 🌸 [Алфавит Хираганы](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/hiragana.md)  
 
 ---
 
