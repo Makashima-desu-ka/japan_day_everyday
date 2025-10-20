@@ -16,7 +16,7 @@
 
 ## 📚 Ситуэйшен  
 
-1. Покупка  
+1. [Покупка_специй](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/situation_spices.md)
 
 ---
 
