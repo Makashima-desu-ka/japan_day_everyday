@@ -21,10 +21,8 @@
 ---
 
 ## 🎴 Материалы  
-- 📖 Карточки
-|-   
-- 🎥 Видео о японской культуре
-|- [日本語教室の つばき先生 Native Japanese Teacher](https://www.youtube.com/@tsubakiclass/videos)  
+- 📖 (Карточки)[]
+- 🎥[日本語教室の つばき先生 Native Japanese Teacher](https://www.youtube.com/@tsubakiclass/videos)  
 
 ---
 
