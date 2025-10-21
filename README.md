@@ -32,4 +32,10 @@
 
 ---
 
+## 🎒 Уроки 
+- [🏮 Урок: 「まだ勉強中なんです」(mada benkyō-chū nan desu) — “Я всё ещё учусь”]([https://kana.pro/](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/lession_benkyō-chū.md))
+
+
+---
+
 > _静かに学び、心で感じる — Учись тихо, ощущай сердцем._
