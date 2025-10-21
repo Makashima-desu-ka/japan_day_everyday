@@ -33,7 +33,7 @@
 ---
 
 ## 🎒 Уроки 
-- [🏮 Урок: 「まだ勉強中なんです」(mada benkyō-chū nan desu) — “Я всё ещё учусь”]([https://kana.pro/](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/lession_benkyō-chū.md))
+- [🏮 Урок: まだ勉強中なんです(mada benkyō-chū nan desu) — “Я всё ещё учусь”](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/lession_benkyō-chū.md)
 
 
 ---
