@@ -17,6 +17,7 @@
 ## 📚 Ситуэйшен  
 
 1. [Покупка специй](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/situation_spices.md)
+2. [Где десерт?](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Restaurant_desert.md)
 
 ---
 
