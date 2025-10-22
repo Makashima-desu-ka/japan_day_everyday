@@ -30,6 +30,7 @@
 - 📖 [Learn Hiragana: The Ultimate Guide](https://www.tofugu.com/japanese/learn-hiragana/)
 - 📖 [Learn Katakana: The Ultimate Guide](https://www.tofugu.com/japanese/learn-katakana/)
 - 📖[Словарик Jisho](https://jisho.org/)
+- 📖 [JLPT-n5-to-n1](https://www.japaneselanguages.com/blog/jlpt-n5-to-n1/)
 
 ---
 
