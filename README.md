@@ -51,7 +51,8 @@
   - [8](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_8_N5.md)
     
 ## Текущий статус
-- 
+**Прогресс W1: 10%**
+██░░░░░░░░░
 
 ---
 
