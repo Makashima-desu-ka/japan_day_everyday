@@ -40,7 +40,7 @@
 ## 📍🗺️ Roadmap N5 
 - [Словарик n5 (~800 слов)](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/JLPT_N5_VOCABULARY.md)
 - [Main-Roadmap](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/JLPT_N5_ROADMAP.md)
-- [Week]
+- Week
   - [1](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_1_N5.md)
   - [2](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_2_N5.md)
   - [3](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_3_N5.md)
