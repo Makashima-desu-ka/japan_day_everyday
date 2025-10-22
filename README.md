@@ -24,7 +24,7 @@
 ## 🎴 Материалы  
 - [Тест хираганы и катаканы](https://kana.pro/)
 - 📖 [Карточки obrazavr.ru](https://obrazavr.ru/uchenik/maximpiryutkogmail-com/?t=cards)
-- - 📖 [Карточки obrazavr.ru JLPT N5](https://obrazavr.ru/cards/5p4awsksmm7y/)
+- 📖 [Карточки obrazavr.ru JLPT N5](https://obrazavr.ru/cards/5p4awsksmm7y/)
 - 🎥[日本語教室の つばき先生 Native Japanese Teacher](https://www.youtube.com/@tsubakiclass/videos)
 - 🎥[shirokuma-cafe-polar-bear-cafe](https://anisub.tv/anime/shirokuma-cafe-polar-bear-cafe)
 - 📖 [Learn Hiragana: The Ultimate Guide](https://www.tofugu.com/japanese/learn-hiragana/)
