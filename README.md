@@ -38,10 +38,18 @@
 ---
 
 ## 📍🗺️ Roadmap N5 
-- Словарик n5 (~800 слов)
-- Месяцы
-- Недели
-
+- [Словарик n5 (~800 слов)](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/JLPT_N5_VOCABULARY.md)
+- [Main-Roadmap](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/JLPT_N5_ROADMAP.md)
+- [Week]
+  - [1](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_1_N5.md)
+  - [2](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_2_N5.md)
+  - [3](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_3_N5.md)
+  - [4](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_4_N5.md)
+  - [5](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_5_N5.md)
+  - [6](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_6_N5.md)
+  - [7](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_7_N5.md)
+  - [8](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_8_N5.md)
+    
 ## Текущий статус
 - 
 
