@@ -31,7 +31,8 @@
 - 📖 [Learn Katakana: The Ultimate Guide](https://www.tofugu.com/japanese/learn-katakana/)
 - 📖[Словарик Jisho](https://jisho.org/)
 - 📖 [JLPT-n5-to-n1](https://www.japaneselanguages.com/blog/jlpt-n5-to-n1/)
-
+- 📖 [Nihongo Survival Japanse Conversation for Beginners](https://www.amazon.com/NIHONGO-FUN-EASY-Conversation-Beginners/dp/4872177215)
+- 🔊 [Подкаст アスク出版](https://open.spotify.com/show/3bZksrpFnnp2VItEO3KJaV?flow_ctx=df75d79f-ac39-4d27-8992-a1e303758732%3A1761293061&creation_point=https%3A%2F%2Fopen.spotify.com%2Fshow%2F3bZksrpFnnp2VItEO3KJaV%3Fsp_cid%3D408aa7611174fa9414a694a30bf16011%26device%3Ddesktop)
 ---
 
 ## 🎒 Уроки 
@@ -53,8 +54,8 @@
   - [8](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_8_N5.md)
     
 ## Текущий статус
-**Прогресс W1: 10%**
-█░░░░░░░░░░
+**Nihongo Survival Japanse Conversation for Beginners: Unit 1**
+- █░░░░░░░░░░
 
 ---
 
