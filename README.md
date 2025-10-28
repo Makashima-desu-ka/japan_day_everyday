@@ -34,28 +34,12 @@
 - 📖 [Nihongo Survival Japanse Conversation for Beginners](https://www.amazon.com/NIHONGO-FUN-EASY-Conversation-Beginners/dp/4872177215)
 - 🔊 [Подкаст アスク出版](https://open.spotify.com/show/3bZksrpFnnp2VItEO3KJaV?flow_ctx=df75d79f-ac39-4d27-8992-a1e303758732%3A1761293061&creation_point=https%3A%2F%2Fopen.spotify.com%2Fshow%2F3bZksrpFnnp2VItEO3KJaV%3Fsp_cid%3D408aa7611174fa9414a694a30bf16011%26device%3Ddesktop)
 ---
-
-## 🎒 Уроки 
-- [🏮 Урок: まだ勉強中なんです(mada benkyō-chū nan desu) — “Я всё ещё учусь”](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/lession_benkyō-chū.md)
-
----
-
 ## 📍🗺️ Roadmap N5 
 - [Словарик n5 (~800 слов)](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/JLPT_N5_VOCABULARY.md)
-- [Main-Roadmap](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/JLPT_N5_ROADMAP.md)
-- Week
-  - [1](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_1_N5.md)
-  - [2](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_2_N5.md)
-  - [3](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_3_N5.md)
-  - [4](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_4_N5.md)
-  - [5](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_5_N5.md)
-  - [6](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_6_N5.md)
-  - [7](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_7_N5.md)
-  - [8](https://github.com/Makashima-desu-ka/japan_day_everyday/blob/main/Week_8_N5.md)
     
 ## Текущий статус
 **Nihongo Survival Japanse Conversation for Beginners: Unit 1**
-- █░░░░░░░░░░
+- **Talk about your interests — Говорите о своих интересах**
 
 ---
 
