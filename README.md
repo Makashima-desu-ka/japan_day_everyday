@@ -23,7 +23,8 @@
 
 ## 🎴 Материалы  
 - [Тест хираганы и катаканы](https://kana.pro/)
-  * Hiragana - Overall Correct: 46/46 (100.00%)
+  * Hiragana - Overall Correct: 46/46 (100.00%) [Check](https://kana-quiz.tofugu.com/)
+  * Katakana - Overall Correct: 46/46 (100.00%) [Check](https://kana-quiz.tofugu.com/)
 - 📖 [Карточки obrazavr.ru](https://obrazavr.ru/uchenik/maximpiryutkogmail-com/?t=cards)
 - 📖 [Карточки obrazavr.ru JLPT N5](https://obrazavr.ru/cards/5p4awsksmm7y/)
 - 🎥[日本語教室の つばき先生 Native Japanese Teacher](https://www.youtube.com/@tsubakiclass/videos)
