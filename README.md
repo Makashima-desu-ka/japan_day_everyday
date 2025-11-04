@@ -49,7 +49,6 @@
   初対面の人に名前と職業を尋ねられる
 * ✅ Вести разговор о хобби и интересах
   趣味や興味のあることについて会話できる
----
 
   **Nihongo Survival Japanse Conversation for Beginners: Unit 2**~
 ---
