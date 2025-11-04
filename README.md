@@ -41,16 +41,23 @@
     
 ## Текущий статус
 ~~**Nihongo Survival Japanse Conversation for Beginners: Unit 1**~~
+  
+```
 - **Talk about your interests — Говорите о своих интересах**
 
 * ✅ Представиться (сделать простое самопредставление)
   簡単に自己紹介ができる
+
 * ✅ Спросить у человека, которого я только что встретил, его имя и профессию
   初対面の人に名前と職業を尋ねられる
+
 * ✅ Вести разговор о хобби и интересах
   趣味や興味のあることについて会話できる
+```
 
-  **Nihongo Survival Japanse Conversation for Beginners: Unit 2**~
+**Nihongo Survival Japanse Conversation for Beginners: Unit 2**
+...
+
 ---
 
 
